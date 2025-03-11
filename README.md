@@ -89,7 +89,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
   4..Deploy on Heroku
   <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/Mrrashmika/QUEEN-ANJU_XPRO">
+    <a href="https://heroku.com/deploy?template=https://github.com/Mrrashmika/ANJU-XPRO">
       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
     </a>
   </p>
