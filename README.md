@@ -73,7 +73,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
   1..DEPLOY ON RENDER
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrrashmika/QUEEN-ANJU_XPRO.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Mrrashmika/ANJU-XPRO.git)
 
 ***<p align="center"> • [`Tap here for Render tutorial`](https://youtu.be/aIUe2sEmd_E?si=WiL0IMrI79GJuog9) </p>***
 
